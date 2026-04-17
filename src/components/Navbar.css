@@ -1,0 +1,13 @@
+.navbar {
+  letter-spacing: 0.5px;
+}
+
+.nav-link {
+  font-weight: 500;
+  margin: 0 10px;
+}
+
+.nav-link:hover {
+  color: #000;
+  border-bottom: 2px solid black;
+}

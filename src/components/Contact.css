@@ -1,0 +1,23 @@
+.contact-form {
+  background: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* Inputs */
+.contact-form input,
+.contact-form textarea {
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: black;
+  box-shadow: none;
+}
+
+/* Button hover */
+.contact-form button:hover {
+  background-color: #333;
+}
