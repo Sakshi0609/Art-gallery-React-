@@ -26,24 +26,6 @@ function App() {
 export default App;
 
 
-// import React, { Component } from "react";
-// import A from "./A";
-
-// class App extends Component {
-
-//   render() {
-
-//     const name = "Sakshi";
-//     const role = "Fullstack Java Developer";
-
-//     return (
-//       <div>
-//         <h1>Parent Component</h1>
-
-//         <A username={name} userrole={role} />
-
-//       </div>
-//     );
 //   }
 
 // }
