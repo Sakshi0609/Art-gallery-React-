@@ -55,16 +55,6 @@ Users can:
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home](src\assets\Home.png)
-
-### 🖼️ Gallery Page
-![Gallery](src\assets\Gallery.png)
-
-### 📩 Contact Page
-![Contact](src\assets\Contact.png)
 
 ## 📌 Future Enhancements
 
